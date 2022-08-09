@@ -14,6 +14,13 @@ body{
   color: blue;
   font-weight: bold;
 }
-#Note_list{
-  color:rgba(255, 0, 0, 0.6);;
+#note_priority{
+  color:rgba(255, 0, 0, 0.6);
+}
+#notes-desc{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
 }
