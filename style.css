@@ -1,0 +1,19 @@
+body{
+  background-color: rgba(200,100,200,0.5)
+}
+.card-title{
+    font-size: xxx-large;
+    font-weight: 100;
+    font-style: italic;
+}
+.card-body{
+  color: rgba(red, green, blue, alpha);
+}
+.card-text {
+  font-size: 1.2rem;
+  color: blue;
+  font-weight: bold;
+}
+#Note_list{
+  color:rgba(255, 0, 0, 0.6);;
+}
