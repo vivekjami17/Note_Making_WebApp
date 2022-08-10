@@ -2,17 +2,20 @@ body{
   background-color: rgba(200,100,200,0.5)
 }
 .card-title{
-    font-size: xxx-large;
-    font-weight: 100;
+    font-size: xx-large;
+    font-weight: 600;
     font-style: italic;
 }
 .card-body{
   color: rgba(red, green, blue, alpha);
 }
 .card-text {
-  font-size: 1.2rem;
-  color: blue;
+  /* font-size: 1.2rem; */
+  color: rgba(253, 170, 6, 0.974);
   font-weight: bold;
+  font-size: xxx-large;
+    font-style: italic;
+    font-weight: 700;
 }
 #note_priority{
   color:rgba(255, 0, 0, 0.6);
