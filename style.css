@@ -14,11 +14,11 @@ body{
   color: rgba(253, 170, 6, 0.974);
   font-weight: bold;
   font-size: xxx-large;
-    font-style: italic;
-    font-weight: 700;
+  font-style: italic;
+  font-weight: 700;
 }
-#note_priority{
-  color:rgba(255, 0, 0, 0.6);
+#note-priority{
+  color:rgba(255, 0, 144, 0.749);
 }
 #notes-desc{
   display: flex;
